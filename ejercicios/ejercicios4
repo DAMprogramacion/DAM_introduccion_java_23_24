@@ -1,0 +1,6 @@
+System.out.println("hola mundo" + 5 + "hello world")
+System.out.println("hola mundo" + 5 + 5 + "hello world")
+System.out.println(5 + 5 + "hello world")
+System.out.println(5 + 5 + "hello world" + 5)
+System.out.println(5 + "5" + "hello world" + 5)
+System.out.println(5 + '5' + "hello world" + 5)
